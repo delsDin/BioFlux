@@ -9,7 +9,6 @@ SIGNATURE_FILE = BASE_DIR / "signature.sig"
 
 FILES_TO_VERIFY = [
     BASE_DIR / "main.py",
-    BASE_DIR / "README.md",
     BASE_DIR / "modules" / "integrite.py",
     BASE_DIR / "modules" / "fonction.py",
     BASE_DIR / "modules" / "statistiques.py",
