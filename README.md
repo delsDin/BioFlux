@@ -225,7 +225,7 @@ verify_license() -> bool
 ```
 - Vérifie la signature de la licence avec la clé publique
 - Contrôle la date d'expiration
-- Valide l'identifiant machine (protection contre le partage)
+- Valide l'identifiant machine (protection contre le partage, fonction inactivée dans le code source)
 
 ### 🛡️ Autres mécanismes de sécurité
 
