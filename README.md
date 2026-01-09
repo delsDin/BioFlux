@@ -260,7 +260,7 @@ Ce projet est sous licence propriétaire. Voir le fichier `license.json` pour pl
 <b>Dels Dinla Marcel</b>
 </p>
 <p align="center" style="color : #00ccff">
-Data Scientist en Licence 1 à l'Institut de Formation et de Recherche en Informatique (IFRI Bénin)
+Data Scientist et AI en Licence 1 à l'Institut de Formation et de Recherche en Informatique (IFRI Bénin)
 </p>
 
 
