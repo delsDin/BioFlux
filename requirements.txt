@@ -1,0 +1,6 @@
+cffi==2.0.0
+cryptography==46.0.3
+DateTime==6.0
+pycparser==2.23
+pytz==2025.2
+zope.interface==8.1.1
