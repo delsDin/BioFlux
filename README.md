@@ -70,7 +70,7 @@
 
 ## 🏗️ Structure du projet
 
-```
+```Bash
 BioFlux/
 ├── App
 │   ├── BioFlux.exe (Windows)
@@ -204,8 +204,7 @@ verify_signature() -> bool
   "user": "Dinla Marcel",
   "product": "BioFlux",
   "date": "29/12/2025",
-  "expiry": "2030-12-31",
-  "user_id": "f0d5c5e160ed3640..."
+  "expiry": "2030-12-31"
 }
 ```
 
@@ -260,13 +259,15 @@ Ce projet est sous licence propriétaire. Voir le fichier `license.json` pour pl
 <b>Dels Dinla Marcel</b>
 </p>
 <p align="center" style="color : #00ccff">
-Data Scientist en Licence 1 à l'Institut de Formation et de Recherche en Informatique (IFRI Bénin)
+Data Scientist && IA. En Licence à l'Institut de Formation et de Recherche en Informatique (IFRI Bénin)
 </p>
 
 
 ## 📧 Support
 
-Pour toute question ou problème, veuillez ouvrir une issue sur GitHub.
+Pour toute question ou problème :
+
+Email : ```dels.git@gmail.com```
 
 
 ## 📊 Captures d'écran
@@ -276,5 +277,3 @@ Pour toute question ou problème, veuillez ouvrir une issue sur GitHub.
 </p>
 
 ---
-
-⭐ Si vous aimez ce projet, n'hésitez pas à lui donner une étoile sur GitHub !
